@@ -1,5 +1,5 @@
 /* Service worker: pozwala używać Sztangi bez internetu. */
-const CACHE = 'sztanga-v2';
+const CACHE = 'sztanga-v3';
 const SHELL = [
   './',
   './index.html',
